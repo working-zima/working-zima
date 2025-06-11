@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @working-zima
-- 👀 I’m interested in all fun things
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on nothing
-- 📫 you could reach me at working.zima@gmail.com
+# Hi, It's Zima 👋  
+> Frontend developer from 🇰🇷 Sungnam, Korea
 
-<!---
-working-zima/working-zima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```js
+const zima = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: {
+    frontend: [
+      "React",
+      "Next.js",
+      "TanStack Query",
+      "Redux",
+      "Zustand",
+      "React Hook Form",
+      "Axios",
+      "Styled-Components",
+      "Tailwind CSS",
+      "SCSS"
+    ],
+    backend: ["Express.js", "MongoDB"],
+    testing: ["Vitest", "React Testing Library", "MSW"],
+    build: ["Vite", "Parcel"],
+    auth: ["OAuth 2.0"]
+  },
+  learning: ["Vitest", "React Testing Library", "MSW", "Redux", "SCSS"]
+}
+```
