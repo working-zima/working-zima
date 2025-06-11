@@ -1,4 +1,4 @@
-# Hi, It's Zima 👋  
+# Hi, It's Zima
 > Frontend developer from 🇰🇷 Sungnam, Korea
 
 ```js
