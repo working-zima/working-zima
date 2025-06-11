@@ -12,7 +12,6 @@ const zima = {
       "TanStack Query",
       "Redux",
       "Zustand",
-      "React Hook Form",
       "Axios",
       "Styled-Components",
       "Tailwind CSS",
